@@ -1,4 +1,5 @@
-# ❤️ ECG Signal Analysis and QRS Detection System
+# ❤️ FPGA-Based Real-Time ECG Monitoring and QRS
+Detection System
 
 A Python and Verilog-based ECG signal processing system designed to analyze Electrocardiogram (ECG) signals, detect QRS complexes, estimate heart rate, and visualize ECG waveforms using the MIT-BIH Arrhythmia Dataset. The project combines Digital Signal Processing (DSP) techniques with FPGA-oriented hardware design to demonstrate efficient ECG analysis.
 
