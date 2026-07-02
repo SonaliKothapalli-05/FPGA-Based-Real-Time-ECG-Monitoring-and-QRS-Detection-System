@@ -206,6 +206,6 @@ This project helped in gaining practical knowledge of:
 
 B.Tech – Electronics and Communication Engineering
 
-Python | Verilog | FPGA | Signal Processing | Machine Learning Enthusiast
+Python | Verilog | FPGA
 
 ---
